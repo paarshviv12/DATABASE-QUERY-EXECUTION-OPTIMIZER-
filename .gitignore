@@ -1,0 +1,13 @@
+# build output (FTXUI is fetched here via CMake FetchContent — do not commit)
+/build/
+
+# compiled binaries
+src/skeleton
+skeleton
+homepage
+*.o
+*.out
+*.exe
+
+# os / editor cruft
+.DS_Store
