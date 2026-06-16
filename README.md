@@ -233,42 +233,43 @@ Plan   : Cache + index  (cost 10)
 
 ## Program Execution Demonstration
 
-<h3 align="center">Know More</h3>
+<h3 align="center">Know More Button: Contains all the Necessary info regarding this project</h3>
 <p align="center">
   <img src="KNOWMORE.gif" alt="Know More" width="850">
 </p>
 
-<h3 align="center">Simulate</h3>
+<h3 align="center">Simulate Button: Gives you CollegeDB & InstaDB to choose</h3>
+<h4 align="center"> You basically pick one scenario you wish to simulate to understand</h4>
 <p align="center">
   <img src="SIMULATE.gif" alt="Simulate" width="850">
 </p>
 
-<h3 align="center">Simulate 2</h3>
+<h3 align="center">CollegeDB Button: You search for name and query execution begins</h3>
 <p align="center">
   <img src="SIMULATE2.gif" alt="Simulate 2" width="850">
 </p>
 
-<h3 align="center">Simulate 3</h3>
+<h3 align="center">CollegeDB simulation: all process from AVL tree to Execution stack happens</h3>
 <p align="center">
   <img src="SIMULATE3.gif" alt="Simulate 3" width="850">
 </p>
 
-<h3 align="center">Simulate 4</h3>
+<h3 align="center">CollegeDB simulation: You recieve the final report of the query execution</h3>
 <p align="center">
   <img src="SIMULATE4.gif" alt="Simulate 4" width="850">
 </p>
 
-<h3 align="center">Rollback</h3>
+<h3 align="center">Rollback Simulation: All Operations are pushed to Execution stack</h3>
 <p align="center">
   <img src="ROLLBACK.gif" alt="Rollback" width="850">
 </p>
 
-<h3 align="center">Rollback 2</h3>
+<h3 align="center">Rollback Simulation: A simulated Error throws to understand how and why error occurs </h3>
 <p align="center">
   <img src="ROLLBACK2.gif" alt="Rollback 2" width="850">
 </p>
 
-<h3 align="center">Rollback 3</h3>
+<h3 align="center">Rollback Simulation: The operations of execution stack starts to undo until it reaches its last stable state </h3>
 <p align="center">
   <img src="ROLLBACK3.gif" alt="Rollback 3" width="850">
 </p>
