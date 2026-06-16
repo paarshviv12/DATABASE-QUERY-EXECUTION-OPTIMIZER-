@@ -310,3 +310,6 @@ work. The result is a clear, end-to-end picture of *why* these data structures
 exist and *how* they cooperate inside a real query engine.
 
 NOTE: YOU MAY ALSO REFER TO "REPORT.md" FOR MORE INFO.
+<p align="center">
+  <img src="think.png" alt="The End" width="700">
+</p>
