@@ -13,6 +13,48 @@ Built in C++ with [FTXUI](https://github.com/ArthurSonzogni/FTXUI).
 | **`homepage`** | The full interactive TUI (FTXUI): KNOW MORE, SIMULATE (CollegeDB / InstaDB live search), and a ROLLBACK SIMULATION. |
 | **`src/skeleton.cpp`** | A tiny no-UI console version (only `<iostream>` + `<string>`) showing the same optimiser logic. |
 
+## Program Execution Demonstration
+
+<h3 align="center">Know More</h3>
+<p align="center">
+  <img src="KNOWMORE.gif" alt="Know More" width="850">
+</p>
+
+<h3 align="center">Simulate</h3>
+<p align="center">
+  <img src="SIMULATE.gif" alt="Simulate" width="850">
+</p>
+
+<h3 align="center">Simulate 2</h3>
+<p align="center">
+  <img src="SIMULATE2.gif" alt="Simulate 2" width="850">
+</p>
+
+<h3 align="center">Simulate 3</h3>
+<p align="center">
+  <img src="SIMULATE3.gif" alt="Simulate 3" width="850">
+</p>
+
+<h3 align="center">Simulate 4</h3>
+<p align="center">
+  <img src="SIMULATE4.gif" alt="Simulate 4" width="850">
+</p>
+
+<h3 align="center">Rollback</h3>
+<p align="center">
+  <img src="ROLLBACK.gif" alt="Rollback" width="850">
+</p>
+
+<h3 align="center">Rollback 2</h3>
+<p align="center">
+  <img src="ROLLBACK2.gif" alt="Rollback 2" width="850">
+</p>
+
+<h3 align="center">Rollback 3</h3>
+<p align="center">
+  <img src="ROLLBACK3.gif" alt="Rollback 3" width="850">
+</p>
+
 ## Case-study features → data structures
 
 | Feature | Structure | File |
