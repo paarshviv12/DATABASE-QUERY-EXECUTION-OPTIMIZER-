@@ -308,3 +308,5 @@ makes these ideas intuitive, the skeleton proves the underlying logic, and every
 choice mirrors how production systems like **MySQL and PostgreSQL** actually
 work. The result is a clear, end-to-end picture of *why* these data structures
 exist and *how* they cooperate inside a real query engine.
+
+NOTE: YOU MAY ALSO REFER TO "REPORT.md" FOR MORE INFO.
